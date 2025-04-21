@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "A 1960s film camera in excellent working condition.",
+      "currentBidPrice": "$150.00",
+      "timeLeft": "2 days left",
+      "bidsCount": 12,
+      "image": "./assets/Bid1-min.png"
+    },
+    {
+      "id": 2,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "High-performance laptop with RTX 3070 GPU and 16GB RAM.",
+      "currentBidPrice": "$850.00",
+      "timeLeft": "3 days left",
+      "bidsCount": 25,
+      "image": "./assets/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Original Apple Macintosh 128k",
+      "description": "Official league football signed by top players.",
+      "currentBidPrice": "$200.00",
+      "timeLeft": "3 days left",
+      "bidsCount": 8,
+      "image": "./assets/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "description": "Beautiful handcrafted table from the 1800s.",
+      "currentBidPrice": "$430.00",
+      "timeLeft": "4 days left",
+      "bidsCount": 17,
+      "image": "./assets/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "Firsat Edition 'The Great Gatsby' by F.Scott Fitzgerald",
+      "description": "Noise-cancelling earbuds with charging case.",
+      "currentBidPrice": "$65.00",
+      "timeLeft": "1 days left",
+      "bidsCount": 42,
+      "image": "./assets/Bid5-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "description": "Elegant wristwatch with leather strap and gold finish.",
+      "currentBidPrice": "$1200.00",
+      "timeLeft": "2 days left",
+      "bidsCount": 31,
+      "image": "./assets/Bid6-min.png"
+    }
+  ]
+  
